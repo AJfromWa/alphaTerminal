@@ -1,0 +1,2 @@
+# alphaTerminal
+ai trading agent
